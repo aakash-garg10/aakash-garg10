@@ -45,9 +45,9 @@
 
 <a href="https://github.com/aakash-garg10">
   
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=aakash-garg10&count_private=true&show_icons=true&&theme=react&include_all_commits=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=aakash-garg10&count_private=true&show_icons=true&&theme=react&include_all_commits=true&hide_border=true" />
 <!--   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=aakash-garg10&theme=react&hide_border=true"> -->
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-garg10&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react" alt="aakashgarg" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-garg10&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="aakashgarg" />
   
 </a>
 <br>
@@ -55,7 +55,7 @@
 <br>
 
 <p>
-   <a href="https://github.com/aakash-garg10"><img alt="Aakash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aakash-garg10&custom_title=Aakash's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/aakash-garg10"><img alt="Aakash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aakash-garg10&custom_title=Aakash's%20Contribution%20Graph&theme=react-dark&hide_border=true" /></a>
   <br/>
 </p>
 
