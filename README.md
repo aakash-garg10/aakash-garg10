@@ -9,7 +9,7 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=400px height=400px alt="side_sticker" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 
 
 - 🔭 I’m currently a **4th year student.**
@@ -43,19 +43,23 @@
 ## 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats
 
-  <p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-garg10&show_icons=true&locale=en&layout=compact&theme=react" alt="aakash"/></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=aakash-garg10&show_icons=true&locale=en&theme=react" alt="aakash"/></p>
-  </p>
+<a href="https://github.com/aakash-garg10">
+  
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=aakash-garg10&count_private=true&show_icons=true&&theme=react&include_all_commits=true" />
+<!--   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=aakash-garg10&theme=react&hide_border=true"> -->
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-garg10&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react" alt="aakashgarg" />
+  
+</a>
 <br>
 <hr>
 <br>
 
-  <b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">⚡ Recent GitHub Activity ⚡</b>
-  <br/>
+<p>
+  <b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">⚡ Recent GitHub Activity added ⚡</b>
+  <br/> <br>
    <a href="https://github.com/aakash-garg10"><img alt="Aakash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aakash-garg10&custom_title=Aakash's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
+</p>
 
 <hr/>
 
