@@ -3,11 +3,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Web+Devloper;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aakash-garg10&label=Profile%20views&color=0e75b6&style=flat-square" alt="aakash-garg10" /> </p>
+
 <hr>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aakash-garg10&label=Profile%20views&color=0e75b6&style=flat-square" alt="aakash-garg10" /> </p>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 - 🔭 I’m currently a **4th year student.**
 
@@ -35,25 +38,24 @@
 
 <hr>
 
-
 <br>
 
-## 📊 Github Stats
+## 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats
 
-  <br/>
   <p align="center">
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-garg10&show_icons=true&locale=en&layout=compact&theme=react" alt="aakash" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aakash-garg10&show_icons=true&locale=en&theme=react" alt="aakash" width="410" /></p>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-garg10&show_icons=true&locale=en&layout=compact&theme=react" alt="aakash"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=aakash-garg10&show_icons=true&locale=en&theme=react" alt="aakash"/></p>
   </p>
- 
+<br>
 <hr>
+<br>
 
-  <summary><b>⚡ Recent GitHub Activity ⚡</b></summary>
+  <b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">⚡ Recent GitHub Activity ⚡</b>
   <br/>
    <a href="https://github.com/aakash-garg10"><img alt="Aakash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aakash-garg10&custom_title=Aakash's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
-<br/>
+<hr/>
 
