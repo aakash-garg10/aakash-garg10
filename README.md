@@ -38,7 +38,7 @@
 
 <hr>
  
-<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats</h3>
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" > Github Stats</h3>
 
 <a href="https://github.com/aakash-garg10">
   
