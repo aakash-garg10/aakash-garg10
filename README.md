@@ -9,7 +9,7 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" width=400px height=400px alt="side_sticker" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" />
+<img align="right" width=300px height=300px alt="side_sticker" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" />
 
 
 - 🔭 I’m currently a **4th year student.**
