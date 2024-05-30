@@ -66,7 +66,7 @@
 <br>
 
 <p>
-   <a href="https://github.com/aakash-garg10"><img alt="Aakash's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=aakash-garg10&custom_title=Aakash's%20Contribution%20Graph&theme=react-dark&hide_border=true" /></a>
+   <a href="https://github.com/aakash-garg10"><img alt="Aakash's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aakash-garg10&custom_title=Aakash's%20Contribution%20Graph&theme=react-dark&hide_border=true" /></a>
   <br/>
 </p>
 
