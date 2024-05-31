@@ -1,18 +1,18 @@
 <h1 align="center">Hi , I'm Aakash Garg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Web+Developer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;DS%20|%20Algorithms%20|%20OOPS%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
  <img align="right" src="https://komarev.com/ghpvc/?username=aakash-garg10&label=Profile%20views&color=0e75b6&style=flat-square" alt="aakash-garg10" />
 
 <hr>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend developer </h3>
 
 <img align="right" width=300px height=300px alt="side_sticker" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" />
 
 
-- 🔭 I’m currently a **4th year student.**
+##- 🔭 I’m currently a **4th year student.**
 
 - 🌱 I’m currently learning **about react.**
 
