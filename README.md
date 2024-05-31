@@ -7,20 +7,18 @@
 
 <hr>
 
-<h3 align="center">A passionate Frontend developer </h3>
+<h3 align="center">A passionate FullStack developer </h3>
 
 <img align="right" width=300px height=300px alt="side_sticker" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" />
 
 
-##- 🔭 I’m currently a **4th year student.**
+- 🔭 My interest lies with **MERN Stack.**
 
-- 🌱 I’m currently learning **about react.**
+- 🌱 I’m currently learning **about react & redux.**
 
-- 👯 I’m looking to collaborate on **open source projects.**
+- 👨‍💻 All of my projects are available at [Aakash-garg](https://aakash-garg.netlify.app)
 
-- 👨‍💻 All of my projects are available at [aakashgarg.me](aakashgarg.me)
-
-- 📫 How to reach me **aakash1913193@akgec.ac.in**
+- 📫 How to reach me **aakashgarg1818@gmail.com**
 
 - ⚡ Fun fact **Always eager to explore.**
 
