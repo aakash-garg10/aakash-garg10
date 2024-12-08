@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Aakash Garg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm a Passionate FullStack Developer  </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;DS%20|%20Algorithms%20|%20OOPS%20;Always%20learning%20new%20things&center=true&width=500&height=40"></a>
 </p>
@@ -7,7 +7,7 @@
 
 <hr>
 
-<h2 align="center">A Passionate FullStack Developer </h2>
+<!-- <h2 align="center">A Passionate FullStack Developer </h2> -->
 
 <!--- <img align="right" width=250px height=250px alt="side_sticker" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" /> -->
 <img align="right" width=220px height=220px alt="side_sticker" src="https://giffiles.alphacoders.com/222/222700.gif" />
