@@ -95,9 +95,9 @@
 
 <a href="https://github.com/aakash-garg10">
   
- <span align="center"> <img height="175em" src="https://github-readme-stats.vercel.app/api?username=aakash-garg10&count_private=true&show_icons=true&&theme=react&include_all_commits=true&hide_border=false" /></span>
+ <p align="center"> <img height="175em" src="https://github-readme-stats.vercel.app/api?username=aakash-garg10&count_private=true&show_icons=true&&theme=react&include_all_commits=true&hide_border=false" />
 <!--   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=aakash-garg10&theme=react&hide_border=true"> -->
-<span align="center"><img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-garg10&langs_count=5&show_icons=true&locale=en&layout=compact&theme=react&hide_border=false" alt="aakashgarg" /></span>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-garg10&langs_count=5&show_icons=true&locale=en&layout=compact&theme=react&hide_border=false" alt="aakashgarg" /></p>
   
 </a>
 <br/>
