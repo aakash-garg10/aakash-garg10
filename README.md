@@ -7,10 +7,10 @@
 
 <hr>
 
-<h3 align="center">A Passionate FullStack Developer </h3>
+<h2 align="center">A Passionate FullStack Developer </h2>
 
-<img align="right" width=250px height=250px alt="side_sticker" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" />
-
+<!--- <img align="right" width=250px height=250px alt="side_sticker" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" /> -->
+<img align="right" width=220px height=220px alt="side_sticker" src="https://giffiles.alphacoders.com/222/222700.gif" />
 
 - 🔭 My interest lies with **MERN Stack.**
 
