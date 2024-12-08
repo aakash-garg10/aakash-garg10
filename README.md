@@ -28,11 +28,18 @@
 
 <h3 align="left">Connect with me: 🤝</h3>
 <br>
-<p align="left">
-<a href="https://twitter.com/aakash_1009" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="aakash_1009" height="40" width="40" /></a> 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aakash-garg1009/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/aakash-garg1009/" height="40" width="40" /></a> 
-<a href="https://instagram.com/_aakash.garg" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="_aakash.garg" height="40" width="40" /></a>
-</p>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/aakash-garg1009/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_aakash.garg/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/aakash_1009" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>a>
+</div>
 
 <br>
 
