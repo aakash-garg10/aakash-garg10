@@ -7,7 +7,7 @@
 
 <hr>
 
-<h3 align="center">A passionate FullStack developer </h3>
+<h3 align="center">A Passionate FullStack Developer </h3>
 
 <img align="right" width=250px height=250px alt="side_sticker" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" />
 
