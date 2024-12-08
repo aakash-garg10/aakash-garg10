@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [Aakash-garg](https://aakash-garg.netlify.app)
 
-- 📫 How to reach me **aakashgarg1818@gmail.com**
+- 📫 How to reach me **aakashgarg1414@gmail.com**
 
 - ⚡ Fun fact **Always eager to explore.**
 
