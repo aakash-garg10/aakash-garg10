@@ -104,13 +104,13 @@
   
  <p align="center"> <img height="175em" src="https://github-readme-stats.vercel.app/api?username=aakash-garg10&count_private=true&show_icons=true&&theme=react&include_all_commits=true&hide_border=false" />
 <!--   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=aakash-garg10&theme=react&hide_border=true"> -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-garg10&langs_count=5&show_icons=true&locale=en&layout=compact&theme=react&hide_border=false" alt="aakashgarg" /></p>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-garg10&langs_count=8&show_icons=true&locale=en&layout=compact&theme=react&hide_border=false" alt="aakashgarg" /></p>
   
 </a>
 <br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Streak Stats</b>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-garg10&theme=react" alt="aakash-garg10" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=aakash-garg10&theme=react" alt="GitHub Streak" /></p>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
